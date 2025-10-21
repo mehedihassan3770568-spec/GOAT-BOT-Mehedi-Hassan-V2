@@ -6,7 +6,7 @@ module.exports = {
     name: "hot",
     version: "1.0.1",
     role: 0,
-    author: "MOHAMMAD AKASH",
+    author: "Mehedi Hassan",
     description: "18+ VIDEO SEND",
     category: "18+",
     usages: "prefix hot",
