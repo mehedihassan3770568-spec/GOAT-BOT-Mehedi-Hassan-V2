@@ -6,7 +6,7 @@ module.exports = {
   config: {
     name: "emoji_voice",
     version: "1.0.1",
-    author: "Mohammad Akash (Modified for GoatBot by GPT-5)",
+    author: "Mehedi Hassan (Modified for GoatBot by GPT-5)",
     countDown: 5,
     role: 0,
     shortDescription: "ইমোজি দিলে কিউট মেয়ের ভয়েস পাঠাবে 😍",
