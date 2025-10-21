@@ -6,7 +6,7 @@ module.exports = {
   config: {
     name: "hack",
     version: "1.0.0",
-    author: "NAZRUL (Converted by Akash)",
+    author: "NAZRUL (Converted by Mehedi )",
     countDown: 0,
     role: 0,
     shortDescription: "Fake FB hack generator 😅",
