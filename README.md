@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=500&color=00FFD1&center=true&vCenter=true&width=800&lines=🤖+Goat+Bot+V2+—+by+𝐌𝐞𝐡𝐞𝐝𝐢+𝐇𝐚𝐬𝐚𝐧+🐐" alt="Goat Bot V2"/>
   </p>
 
-  <img src="https://i.imgur.com/bMtWFb6.jpeg" width="600" style="border-radius:50%;margin-top:10px;margin-bottom:10px;" alt="Mehedi Hasan"/>
+  <img src="https://i.imgur.com/eb4x3cK.jpeg" width="600" style="border-radius:50%;margin-top:10px;margin-bottom:10px;" alt="Mehedi Hasan"/>
 
   <!-- Sub-heading animated -->
   <p align="center">
